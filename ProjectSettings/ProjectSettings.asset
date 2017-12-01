@@ -681,9 +681,9 @@ PlayerSettings:
     Unity_Ads: 0
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 2a0e2bf0-1411-4442-a0a8-929b1d85cd59
-  projectName: Tetris
-  organizationId: skardgames
+  cloudProjectId: 96db3753-e93d-416d-9901-565194632c8d
+  projectName: TetrisPuzzle
+  organizationId: vladyslavkyiashko
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
